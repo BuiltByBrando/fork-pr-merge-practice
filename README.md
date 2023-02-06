@@ -3,3 +3,4 @@ A repository for DGL 104 students to practice using the fork and pull model of o
 
 ## Contributor list
 - Ashley Blacquiere
+- Jacob K. 
