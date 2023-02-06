@@ -6,5 +6,8 @@ A repository for DGL 104 students to practice using the fork and pull model of o
 - Jacob K. 
 - Brandon Slade 
 
+## This is a new section
+It's the best section you've ever seen.
+
 ### Class Discussion
 What is the **best** berry?
